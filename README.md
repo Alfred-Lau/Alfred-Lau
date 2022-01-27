@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm 烽火 👋
 
 - 🔭 I’m currently working AntGroup Ltd as a web frontend developer.
-- 👯 I’m looking to collaborate on product engineering.
+- 👯 I’m interested in product engineering.
 
 掘金：[烽火彼岸](https://juejin.cn/user/1873223542385768) / 知乎：[烽火彼岸](https://www.zhihu.com/people/liu-jian-98-24-94) / 公众号：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) / 小程序：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) / 个人主站：[烽火主站](https://lazy-minus-your-intelligence.com/) / 天工主站：[天工主站](http://docs.lazy-minus-your-intelligence.com/) 
 
