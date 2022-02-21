@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working AntGroup Ltd as a web frontend developer.
 - 👯 I’m interested in product engineering.
 - 📫 How to reach me: 
-  - 掘金：[烽火彼岸](https://juejin.cn/user/1873223542385768) 
-  - 知乎：[烽火彼岸](https://www.zhihu.com/people/liu-jian-98-24-94) 
-  - 公众号：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
-  - 小程序：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
   - 个人主站：[烽火主站](https://lazy-minus-your-intelligence.com/) 
   - 天工主站：[天工主站](http://docs.lazy-minus-your-intelligence.com/) 
+  - 小程序：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
+  - 公众号：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
+  - 掘金：[烽火彼岸](https://juejin.cn/user/1873223542385768) 
+  - 知乎：[烽火彼岸](https://www.zhihu.com/people/liu-jian-98-24-94) 
 - ⚡ Fun fact: at spare time, I am attempting to construct a whole sys to make website become flexible，data driven and automation asap. 
 - 😄 One more thing, the tracert sdk, automation platform and full-ability server is under development in private mode,you will see in this year. Welcome to keep your eyes open.
 
