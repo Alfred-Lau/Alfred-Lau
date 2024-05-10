@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - bitou 主站：[笔头主站](https://bitou.tech/)
   - bitou 工作台 [笔头工作台](https://work.bitou.tech/)
-  - 个人博客：基于 island 架构涉嫌
+  - 个人博客：[榆关的博客](https://datafun.bitou.tech/) based on island archtec
   - 小程序：[榆关](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
   - 公众号：[榆关](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
 - 😄 One more thing, the tracert sdk, automation platform and full-ability server is under development in private mode,you will see in this year. Welcome to keep your eyes open.
