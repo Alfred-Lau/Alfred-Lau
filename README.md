@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 ### Hi there, I'm 烽火 👋
 
 - 🔭 I’m currently working AntGroup Ltd as a web frontend developer.
-- 👯 I’m interested in product engineering.
+- 👯 I’m interested in product engineering, and make a product named bitou based on ai and fullstack in spare time
 - 📫 How to reach me: 
-  - 个人主站：[烽火主站](https://lazy-minus-your-intelligence.com/) 
-  - 天工主站：[天工主站](http://docs.lazy-minus-your-intelligence.com/) 
-  - 小程序：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
-  - 公众号：[烽火彼岸](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
-  - 掘金：[烽火彼岸](https://juejin.cn/user/1873223542385768) 
-  - 知乎：[烽火彼岸](https://www.zhihu.com/people/liu-jian-98-24-94) 
-- ⚡ Fun fact: at spare time, I am attempting to construct a whole sys to make website become flexible，data driven and automation asap. 
+  - bitou 主站：[笔头主站](https://bitou.tech/)
+  - bitou 工作台 [笔头工作台](https://work.bitou.tech/)
+  - 个人博客：基于 island 架构涉嫌
+  - 小程序：[榆关](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
+  - 公众号：[榆关](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f598c0348e8840d59360fde6b8758629~tplv-k3u1fbpfcp-watermark.image?) 
 - 😄 One more thing, the tracert sdk, automation platform and full-ability server is under development in private mode,you will see in this year. Welcome to keep your eyes open.
 
 **Languages and Tools:**  
@@ -35,6 +33,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-[![烽火's github stats](https://github-readme-stats.vercel.app/api?username=Alfred-Lau)](https://github.com/anuraghazra/github-readme-stats)
+[![榆关's github stats](https://github-readme-stats.vercel.app/api?username=Alfred-Lau)](https://github.com/anuraghazra/github-readme-stats)
 
 
